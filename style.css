@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color:sandybrown ;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    width: 600px;
+    margin-left: 330px;
+    font-size: 20px;
+}
+
+b{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 150px;
+    padding: 10px 10px;
+}
